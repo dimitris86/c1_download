@@ -1,9 +1,12 @@
---?color=linear-gradient(90deg, #005f6b 50%, white 50%)
+# Layout
+layout : top-center
 
-@snap[west span-40 text-center h1-white]
-# Cccc
-@snapend
+# Look-and-Feel
+logo : logo.png
+theme : night
+theme-override : PITCHME.css
+highlight : ir-black
 
-@snap[east span-50 text-center]
-# @fa[laptop-code fa-2x text-black]
-@snapend
+# Behavior
+transition : none
+published : true

@@ -1,7 +1,6 @@
-.reveal h1, .reveal h2{
-  font-family:'Comic Sans MS';
-  margin:0;
-  padding:0}  
+.reveal img{
+  height:380px !important;
+}
 .reveal h1{
   color:#e7ad52 !important;
   font-size:1.4em;

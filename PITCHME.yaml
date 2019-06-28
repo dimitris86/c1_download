@@ -1,8 +1,8 @@
 theme            : template
 
-theme-background : [ "linear-gradient(to top, #222222, #2193b0)" ]
+theme-background : [ "linear-gradient(to top, #2193b0, 222222)" ]
 theme-headline   : [ "Comic Sans MS", "white", "none" ]
-theme-byline     : [ "Ubuntu", "black", "none" ]
+theme-byline     : [ "Comic Sans MS", "black", "none" ]
 theme-text       : [ "Raleway", "#F5FFFA", "none" ]
 theme-links      : [ "#0295BB", "#C0C0C0" ]
 theme-code       : [ "Inconsolata" ]

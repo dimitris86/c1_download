@@ -1,0 +1,13 @@
+.reveal h1, .reveal h2{
+  font-family:'Comic Sans MS';
+  margin:0;
+  padding:0}  
+.reveal h1{
+  color:#e7ad52;
+  font-size:1.4em;
+  border-bottom:1px solid #e7ad52}
+.reveal h2{
+  border-bottom:1px solid #ffffff;
+  color:#ffffff;
+  font-size:1.8em;}
+

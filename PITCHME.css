@@ -3,9 +3,9 @@
   margin:0;
   padding:0}  
 .reveal h1{
-  color:#e7ad52;
+  color:#e7ad52 !important;
   font-size:1.4em;
-  border-bottom:1px solid #e7ad52}
+  border-bottom:1px solid #e7ad52 !important}
 .reveal h2{
   border-bottom:1px solid #ffffff;
   color:#ffffff;

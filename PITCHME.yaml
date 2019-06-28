@@ -1,12 +1,13 @@
 theme            : template
 
-theme-background : [ "linear-gradient(180deg, black 75%, white 25%)" ]
-theme-headline   : [ "Montserrat", "#93C54B", "none" ]
-theme-byline     : [ "Montserrat", "#111111", "none" ]
-theme-text       : [ "Raleway", "#1C1C1C", "none" ]
-theme-links      : [ "#62A503", "#718C00" ]
-theme-code       : [ "Fira Code" ]
-theme-controls   : [ "#C0C0C0" ]
+theme-background : [ "linear-gradient(to top, #222222, #2193b0)" ]
+theme-headline   : [ "Comic Sans MS", "white", "none" ]
+theme-byline     : [ "Ubuntu", "black", "none" ]
+theme-text       : [ "Raleway", "#F5FFFA", "none" ]
+theme-links      : [ "#0295BB", "#C0C0C0" ]
+theme-code       : [ "Inconsolata" ]
+theme-controls   : [ "#484848" ]
 theme-margins    : [ "0", "15px" ]
-theme-override : PITCHME.css
-highlight        : tomorrow
+theme-override   :  PITCHME.css
+
+highlight        : ir-black
